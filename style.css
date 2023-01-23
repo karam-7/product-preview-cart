@@ -1,10 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Montserrat&display=swap');
+
 *{
     margin: 0;
     box-sizing: border-box;
 }
 
 body{
-    background-color: hsl(30, 38%, 92%);   
+    background-color: hsl(30, 38%, 92%); 
+    min-height: 100vh;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 
@@ -55,7 +63,7 @@ body{
     width: 200px;
 }
 
-p{
+.info-para{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 500;
@@ -139,7 +147,7 @@ button>img{
         width: 100%;
     }
 
-    .info-h2, p, button {
+    .info-h2, .info-para, button {
         width: 90%;
     }
 }
