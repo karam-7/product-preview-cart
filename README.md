@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/karam-7/product-preview-cart)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://karam-7.github.io/product-preview-cart/)
 
 ## My process
 
@@ -41,6 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Figma (https://www.figma.com/file/jSXW88se6kVoifa6dxPVUc/Untitled?node-id=0%3A1&t=Dt6yoAXHuxeu4u6G-0) Bulid by ME
 
 
 ### What I learned
