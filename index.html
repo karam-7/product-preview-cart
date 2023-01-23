@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>product card</title>
+    <link
+      rel="shortcut icon"
+      href="./images/favicon-32x32.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="product">
+        <picture>
+          <source
+            class="source-img"
+            media="(min-width: 630px)"
+            srcset="./images/image-product-desktop.jpg"
+          />
+          <img
+            src="./images/image-product-mobile.jpg"
+            alt="product"
+            class="main-img"
+          />
+        </picture>
+        <div class="info">
+          <h4 class="info-h4">perfume</h4>
+          <h2 class="info-h2">Gabrille Essence Eau De Parfum</h2>
+          <p>
+            A floral, solar and voluptuos interpretation composed by Olivier
+            Polge, Perfumer-Creator for the House of CHANEL.
+          </p>
+          <div class="price">
+            <h2 class="price-h2">$149.99</h2>
+            <h4 class="price-h4"><s> $169.99</s></h4>
+          </div>
+          <button>
+            <img src="./images/icon-cart.svg" alt="" /> Add to Cart
+          </button>
+        </div>
+      </section>
+
+      <footer class="foot">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="http://karam-portfolio.liveblog365.com" target="_blank"> KARAM SINGH</a>
+      </footer>
+    </main>
+  </body>
+</html>
+
