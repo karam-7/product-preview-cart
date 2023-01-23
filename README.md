@@ -67,6 +67,6 @@ Learn more about responsive Design and much more to learn
 
 - Website - [KARAM SINGH](http://karam-portfolio.liveblog365.com)
 - Frontend Mentor - [@karam-7](https://www.frontendmentor.io/profile/karam-7)
-- Twitter - [@Karam Singh](https://www.linkedin.com/in/karam-singh-a77818b6/)
+- LinkedIn - [@Karam Singh](https://www.linkedin.com/in/karam-singh-a77818b6/)
 
 
